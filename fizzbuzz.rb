@@ -5,7 +5,8 @@ end
 if num % 5 == 0 
   return "Buzz"
 end
-if num == fizz_15
+if num % 3 && 5 == 0
   return "FizzBuzz"
+else
 end
 end
