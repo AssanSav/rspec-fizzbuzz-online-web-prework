@@ -5,7 +5,7 @@ end
 if num % 5 == 0 
   return "Buzz"
 end
-if num % |3| !== 0 
+if num % 15 !== 0 
   return "FizzBuzz"
 end
 end
