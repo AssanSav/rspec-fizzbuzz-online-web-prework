@@ -6,6 +6,6 @@ elsif num % 3 == 0
 elsif num % 5 == 0 
   return "Buzz"
 else 
-  return "nil"
+  return nil
 end
 end
