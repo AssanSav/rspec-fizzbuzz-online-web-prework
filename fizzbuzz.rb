@@ -4,7 +4,8 @@ if num % 3 == 0
 end
 if num % 5 == 0 
   return "Buzz"
-else
+end
+if num !% |3, 5| == 0 
   return "FizzBuzz"
 end
 end
