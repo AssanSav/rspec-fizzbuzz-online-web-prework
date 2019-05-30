@@ -5,9 +5,9 @@ end
 if num % 5 == 0 
   return "Buzz"
 end
-if num % 3 && 5 == 0
-  return "nil"
+if num / 3 || 5 == 0
+  return "FizzBuzz"
 else
-  
+  "nil"
 end
 end
